@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibraheem Afolabi
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Algorithms
+- 👀 I am in Game Developmer
+- 🌱 I’m currently learning ....
 - 💞️ I’m looking to collaborate on any project.
 
 <!---
